@@ -1,0 +1,20 @@
+server:
+  port: 8080
+configs:
+  afterAlertBreakTime: 100
+  monitorTimeWindow: 60
+  infoCountLimit: 10
+  infoSubscriber: info_subscriber
+  warningCountLimit: 5
+  warningSubscriber: warning_subs_1, warning_subs_2
+  criticalCountLimit: 4
+  criticalSubscriber: critical_subs_2, critical_subs_2
+  blockerCountLimit: 3
+  blockerSubscriber: blocker_subs_1, blocker_subs_2
+
+
+
+
+
+
+
