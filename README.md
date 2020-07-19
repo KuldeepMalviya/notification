@@ -13,6 +13,6 @@ all posible EventTypes are
    WARNING,
    BLOCKER
 
-For update/change configration, update properties available in application.yml file.
+For update/change configuration, update properties available in application.yml file.
 
 
